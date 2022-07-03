@@ -1,5 +1,6 @@
 # Running through docker?
 
+- Add github API token to setting file in `GITHUB_TOKEN`
 - `docker-compose build`
 - `docker-compose up`
 
@@ -7,6 +8,7 @@ Worked but then had issues? try `docker-compose down --remove-orphans`
 (This will cause all data to be lost)
 
 # Running locally?
+- Add github API token to setting file in `GITHUB_TOKEN`
 - have postgresql installed locally with a user/pass/db = test/test/test
 - create venv using python 3.9
 - pip install requirements
