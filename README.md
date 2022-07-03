@@ -16,11 +16,6 @@ Worked but then had issues? try `docker-compose down --remove-orphans`
 - run server
 - take some popcorn and enjoy
 
-
-
-- Add docstrings
-- Add response with repo status
-
 # Comments:
 - No CRUD operations were requested hence I didn't use any serializers 
 - For the client you can use any browser and swagger should be bundled as part of the site
