@@ -1,0 +1,23 @@
+# requirements
+requests==2.28.0
+Django==4.0.5
+djangorestframework==3.13.1
+PyGithub==1.55
+psycopg2==2.9.3
+redis>=3.5
+celery>=5.0
+
+# dependencies
+sqlparse==0.4.2
+urllib3==1.26.9
+wrapt==1.14.1
+asgiref==3.5.2
+certifi==2022.6.15
+cffi==1.15.0
+charset-normalizer==2.0.12
+Deprecated==1.2.13
+idna==3.3
+pycparser==2.21
+PyJWT==2.4.0
+PyNaCl==1.5.0
+pytz==2022.1
